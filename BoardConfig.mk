@@ -19,6 +19,9 @@
 
 DEVICE_PATH := device/oneplus/fajita
 
+# Assertions
+TARGET_BOARD_INFO_FILE := device/oneplus/fajita/board-info.txt
+
 # FOD
 TARGET_SURFACEFLINGER_UDFPS_LIB := //hardware/oneplus:libudfps_extension.oneplus
 
